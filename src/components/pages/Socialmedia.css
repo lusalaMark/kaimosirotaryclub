@@ -1,0 +1,23 @@
+.socialmedia__links {
+  display: flex;
+  padding: 30px;
+}
+
+.facebook {
+  color: blue !important;
+}
+.youtube {
+  color: red !important;
+}
+.instagram {
+  color: violet !important;
+}
+.email {
+  color: grey !important;
+}
+.twitter {
+  color: skyblue !important;
+}
+.linkedin {
+  color: #005daa !important;
+}

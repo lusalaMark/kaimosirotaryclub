@@ -1,0 +1,13 @@
+.content__center {
+  flex: 0.7;
+  margin: 10px 20px;
+}
+
+.contentlinks__bottom {
+  color: #005daa;
+  padding: 20px;
+}
+
+.contentlinks__bottom > h3 {
+  color: black;
+}

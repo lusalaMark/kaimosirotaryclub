@@ -1,0 +1,12 @@
+.sidebarcontent {
+  flex: 0.2;
+  text-align: left;
+  height: fit-content;
+  padding-left: 100px;
+}
+
+.subpages {
+  color: #005daa;
+  padding: 10px;
+  border-bottom: none;
+}

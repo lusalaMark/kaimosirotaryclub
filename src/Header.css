@@ -1,0 +1,27 @@
+.header {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom: 0.1px solid orangered;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  z-index: 999;
+  background-color: royalblue;
+}
+.title {
+  color: sandybrown;
+}
+.header__left > img {
+  object-fit: contain;
+  flex: 0.1;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.header__right {
+  display: flex;
+  flex: 0.9;
+  text-align: right;
+}
