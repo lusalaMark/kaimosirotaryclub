@@ -1,12 +1,15 @@
-.sidebarcontent {
+.sidebarcontentcontactus {
   flex: 0.2;
   text-align: left;
   height: fit-content;
   padding-left: 100px;
 }
 
-.subpages {
+.subpagesections {
   color: #005daa;
   padding: 10px;
   border-bottom: none;
+}
+.subpagesections > h2 {
+  font-size: 35x;
 }

@@ -1,0 +1,39 @@
+.content__center {
+  flex: 0.7;
+  margin: 10px 20px;
+}
+
+.contentlinks__bottom {
+  color: #005daa;
+  padding: 20px;
+}
+
+.contentlinks__bottom > h3 {
+  color: black;
+}
+
+.feed1 {
+  color: #005daa;
+
+  text-align: center;
+}
+
+.feed2 {
+  color: red;
+  font-style: italic;
+}
+.feed3 > p {
+  color: blue;
+  font-style: italic;
+}
+
+.feed > h1 {
+  font-size: 12px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 15px;
+  line-height: 1.42857143;
+}
+
+.feed > p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}

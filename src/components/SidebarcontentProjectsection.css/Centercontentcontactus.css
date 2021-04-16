@@ -1,0 +1,32 @@
+.rotary {
+  display: flex;
+  flex-direction: column;
+}
+
+.contactpeople {
+  display: flex;
+  padding: 10px;
+}
+
+.imgtext {
+  padding: 20px;
+  text-align: left;
+}
+
+.imgtext > h4 {
+  color: #005daa;
+  font-size: 20px;
+}
+
+.pic > img {
+  height: 200px;
+  width: 200px;
+}
+
+.bottomtext {
+  padding-left: 225px;
+}
+
+.bottomtext > p {
+  font-style: italic;
+}

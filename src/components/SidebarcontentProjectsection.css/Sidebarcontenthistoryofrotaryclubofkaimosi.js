@@ -8,19 +8,7 @@ function Sidebarcontenthistoryofrotaryclubofkaimosi() {
         <h3>Subpages</h3>
       </div>
       <div className="subpages">
-        <h3>Welcome to Rotary</h3>
-      </div>
-      <div className="subpages">
-        <h3>Links</h3>
-      </div>
-      <div className="subpages">
-        <h3>Related Pages</h3>
-      </div>
-      <div className="subpages">
-        <h3>Files</h3>
-      </div>
-      <div className="subpages">
-        <h3>Photo Albums</h3>
+        <h3>History of the Rotary Club of Ladner</h3>
       </div>
     </div>
   );

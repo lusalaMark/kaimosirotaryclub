@@ -1,11 +1,11 @@
 import React from "react";
 import Centercontentcontactus from "./Centercontentcontactus";
-import "./Weareroatry.css";
+import "./Contactus.css";
 import Footer from "../../Footer";
 import Mark from "../../Mark";
 import Sidebarcontentcontactus from "./Sidebarcontentcontactus";
 
-export default function Wearerotary() {
+export default function Contactus() {
   return (
     <div className="rotary">
       <div className="heading">

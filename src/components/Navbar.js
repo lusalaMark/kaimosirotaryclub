@@ -66,6 +66,7 @@ function Navbar() {
             <Link to="" className="nav-links" onClick={closeMobileMenu}>
               Our Projects & Partners <i className="fas fa-caret-down" />
             </Link>
+
             {/*  {dropdownourprojectandpartners && <Dropdownourprojectandpartners />}*/}
           </li>
           <li className="nav-item">
